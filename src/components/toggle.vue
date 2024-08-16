@@ -66,7 +66,7 @@
                     </table>
 
                     <button @click="togglePrice"
-                        class="text-sm font-bold text-white bg-gradient-to-b from-linear to-linear1 py-3 mt-10 w-full">
+                        class="text-sm font-bold text-white bg-gradient-to-b from-linear to-linear1 py-3 mt-10 w-full rounded-lg">
                         LEARN MORE
                     </button>
                 </div>
@@ -105,7 +105,7 @@
                         </tbody>
                     </table>
 
-                    <button @click="togglePrice" class="text-sm font-bold text-btn bg-white py-3 mt-10 w-full">
+                    <button @click="togglePrice" class="text-sm font-bold text-btn bg-white py-3 rounded-lg mt-10 w-full">
                         LEARN MORE
                     </button>
                 </div>
@@ -145,7 +145,7 @@
                     </table>
 
                     <button @click="togglePrice2"
-                        class="text-sm font-bold text-white bg-gradient-to-b from-linear to-linear1 py-3 mt-10 w-full ">
+                        class="text-sm font-bold text-white bg-gradient-to-b from-linear to-linear1 py-3 rounded-lg mt-10 w-full ">
                         LEARN MORE
                     </button>
                 </div>

@@ -20,7 +20,7 @@
                         <input type="checkbox" class="sr-only peer" v-model="isYearly" />
                         <span
                             class="w-14 h-8 rounded-full flex flex-shrink-0 items-center p-1 transition-colors duration-300"
-                            :class="isYearly ? 'bg-gradient-to-r from-linear to-linear1' : 'bg-gradient-to-r from-linear to-linear1'">
+                            :class="isYearly ? 'bg-gradient-to-r from-linear to-linear1' : 'bg-gradient-to-r from-linear to-linear1 xl:bg-gradient-to-t xl:from-linear xl:to-linear1'">
 
                             <span class="w-6 h-6 rounded-full block transform transition-transform duration-300"
                                 :class="{ 'translate-x-6': isYearly, 'translate-x-0': !isYearly, 'bg-white': true }"></span>
@@ -174,7 +174,7 @@
 export default {
     data() {
         return {
-            isYearly: false
+            isYearly: true
         };
     },
     methods: {

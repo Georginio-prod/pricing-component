@@ -11,3 +11,8 @@
     
 }
 
+.custom-bg-xl {
+    background-image: url('/public/bg-top.svg'), url('/public/bg-bottom.svg');
+    background-position: right top, left bottom;
+    background-repeat: no-repeat;
+}

@@ -14,6 +14,7 @@ export default {
         number: "#4A4D60",
         btn:"#6D72DE"
       }
+      
     },
   },
   plugins: [],

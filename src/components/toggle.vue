@@ -1,6 +1,6 @@
 <template>
     <div
-        class="min-h-screen max-w-sm h-full w-full flex flex-col items-center justify-center bg-background bg-[url('/public/bg-top.svg')] bg-left-top bg-no-repeat  px-6">
+        class="max-w-md h-full w-full flex flex-col items-center justify-center bg-background bg-[url('/public/bg-top.svg')] bg-left-top bg-no-repeat  px-6">
 
         <div class="text-center px-16 pt-16 pb-20 text-grisclair font-bold">
             <p class=" text-4xl">

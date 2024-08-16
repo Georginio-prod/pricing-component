@@ -41,9 +41,9 @@
                 <div class="flex flex-col w-full ">
                     <h1 class="w-full pb-8 text-4xl text-number">
                         <p v-if="!isYearly" class="tracking-normal items-center flex justify-center "> &dollar;<span
-                                class="font-bold text-7xl pl-2">19.99</span></p>
-                        <p v-else class="tracking-normal items-center flex justify-center"> &dollar;<span
                                 class="font-bold text-7xl pl-2">199.99</span></p>
+                        <p v-else class="tracking-normal items-center flex justify-center"> &dollar;<span
+                                class="font-bold text-7xl pl-2">19.99</span></p>
                     </h1>
 
                     <table class="">
@@ -81,9 +81,9 @@
                 <div class="flex flex-col w-full ">
                     <h1 class="w-full pb-8 text-4xl">
                         <p v-if="!isYearly" class="tracking-normal items-center flex justify-center "> &dollar;<span
-                                class="font-bold text-7xl pl-2">24.99</span></p>
-                        <p v-else class="tracking-normal items-center flex justify-center"> &dollar;<span
                                 class="font-bold text-7xl pl-2">249.99</span></p>
+                        <p v-else class="tracking-normal items-center flex justify-center"> &dollar;<span
+                                class="font-bold text-7xl pl-2">24.99</span></p>
                     </h1>
 
                     <table class="">
@@ -120,9 +120,9 @@
                 <div class="flex flex-col w-full ">
                     <h1 class="w-full pb-8 text-4xl text-number">
                         <p v-if="!isYearly" class="tracking-normal items-center flex justify-center "> &dollar;<span
-                                class="font-bold text-7xl pl-2">39.99</span></p>
-                        <p v-else class="tracking-normal items-center flex justify-center"> &dollar;<span
                                 class="font-bold text-7xl pl-2">399.99</span></p>
+                        <p v-else class="tracking-normal items-center flex justify-center"> &dollar;<span
+                                class="font-bold text-7xl pl-2">39.99</span></p>
                     </h1>
 
                     <table class="">
